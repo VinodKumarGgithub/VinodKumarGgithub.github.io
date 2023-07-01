@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.1bd3e780.css",
-    "main.js": "/static/js/main.af45b13a.js",
+    "main.js": "/static/js/main.3316929a.js",
     "static/media/Specialized.png": "/static/media/Specialized.f0ce36a84ab13dca6174.png",
     "static/media/Fab_Alley.png": "/static/media/Fab_Alley.f9306cc6c3a1b370c1ba.png",
     "static/media/PharmEasy.png": "/static/media/PharmEasy.087270386ad35d7b2f9e.png",
+    "static/media/portfolio.png": "/static/media/portfolio.f39e1c7f37a309d6688f.png",
     "static/media/Vinod_Kumar_G_Resume.pdf": "/static/media/Vinod_Kumar_G_Resume.528aac8bb8a93f7152b1.pdf",
     "static/media/personal.png": "/static/media/personal.78e8cc2daae1013da5f2.png",
     "index.html": "/index.html",
     "main.1bd3e780.css.map": "/static/css/main.1bd3e780.css.map",
-    "main.af45b13a.js.map": "/static/js/main.af45b13a.js.map"
+    "main.3316929a.js.map": "/static/js/main.3316929a.js.map"
   },
   "entrypoints": [
     "static/css/main.1bd3e780.css",
-    "static/js/main.af45b13a.js"
+    "static/js/main.3316929a.js"
   ]
 }
