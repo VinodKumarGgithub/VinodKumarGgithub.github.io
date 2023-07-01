@@ -27,7 +27,7 @@ export const Github = () => {
         
         id="github-top-langs"
           align="center"
-          src="https://github-readme-stats.vercel.app/api?username=VinodKumarGgithub&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodKumarGgithub&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
           alt="VinodKumarGgithub"
         />
       </div>
@@ -35,13 +35,13 @@ export const Github = () => {
         <img
         id="github-stats-card"
           align="center"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=VinodKumarGgithub&theme=dark&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api?username=VinodKumarGgithub&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
           alt="VinodKumarGgithub"
         />
         <img
         id="github-streak-stats"
           align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodKumarGgithub&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+          src="https://github-readme-streak-stats.herokuapp.com?user=VinodKumarGgithub&theme=dark&border_radius=4"
           alt="VinodKumarGgithub"
         />
       </div>

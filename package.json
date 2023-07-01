@@ -21,7 +21,6 @@
     "react-particles": "^2.10.1",
     "react-scripts": "5.0.1",
     "save-dev": "^0.0.1-security",
-    "gh-pages": "^5.0.0",
     "tslib": "^2.6.0",
     "tsparticles": "^2.10.1",
     "tsparticles-engine": "^2.10.1",
@@ -54,5 +53,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
