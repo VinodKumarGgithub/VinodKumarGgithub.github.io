@@ -1,7 +1,6 @@
 export default function getProjects() {
     return [
       {
-        img:"",
         id: 1,
         image:'PharmEasy.png',
         projectTitle: "PharmEasy",
@@ -12,7 +11,6 @@ export default function getProjects() {
         projectLinkGithub: "https://github.com/VinodKumarGgithub/PharmaEasy",
       },
       {
-        img:"",
         id: 2,
         image:'Fab_Alley.png',
         projectTitle: "Fab Alley",
@@ -30,6 +28,15 @@ export default function getProjects() {
         techUsed: ["vanilaJs", "HTML", "CSS","RestApi","JSON"],
         projectLinkHosted: "https://specialized-cycles.netlify.app/",
         projectLinkGithub: "https://github.com/VinodKumarGgithub/Specialized-",
+      },
+      {
+        id: 4,
+        projectTitle: "Portfolio",
+        image:'portfolio.png',
+        projectInfo: "  My expertise spans across HTML5, CSS3, JavaScript, ReactJs, NodeJs, Express...",
+        techUsed: ["React Js", "Redux", "vanilaJs", "HTML", "CSS","RestApi","JSON"],
+        projectLinkHosted: "https://vinodkumarggithub.github.io/",
+        projectLinkGithub: "https://github.com/VinodKumarGgithub/VinodKumarGgithub.github.io",
       }
     ];
   }

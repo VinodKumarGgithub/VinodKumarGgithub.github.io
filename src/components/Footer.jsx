@@ -28,7 +28,7 @@ export default function Footer() {
             <FontAwesomeIcon icon={faHeart} />
           </a>
         </div>
-          {/* <a href="mailto: vpvinu.com@gmail.com" id="contact-email">vpvinu.com@gmail.com<hr /></a> */}
+          <a href="mailto: vpvinu.com@gmail.com" id="contact-email">vpvinu.com@gmail.com<hr /></a>
       </div>
     </footer>
   );
