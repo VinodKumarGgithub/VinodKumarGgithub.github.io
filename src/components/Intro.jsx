@@ -11,7 +11,7 @@ export default function Intro({ handleClick, boolean }) {
         <div class="outer-circle circle circle-1">
           <span class="sq sq-1"></span>
           <span class="inner-circle circle">
-            <img className="home-img" src={img1} alt="personal" />
+            <img className="home-img" src={"https://drive.google.com/file/d/1Ouh9lRZue2hsfZKeQOpKwCptnmqdn9Vr/view?usp=drive_link"} alt="personal" />
           </span>
           <span class="sq sq-2"></span>
         </div>
