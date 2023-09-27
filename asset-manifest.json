@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1bd3e780.css",
-    "main.js": "/static/js/main.aa513ef9.js",
+    "main.js": "/static/js/main.ed5c3ad8.js",
     "static/media/Specialized.png": "/static/media/Specialized.f0ce36a84ab13dca6174.png",
     "static/media/Fab_Alley.png": "/static/media/Fab_Alley.f9306cc6c3a1b370c1ba.png",
     "static/media/personal.jpg": "/static/media/personal.29806c76d348fb437ced.jpg",
@@ -10,10 +10,10 @@
     "static/media/Vinod_Kumar_G_Resume.pdf": "/static/media/Vinod_Kumar_G_Resume.528aac8bb8a93f7152b1.pdf",
     "index.html": "/index.html",
     "main.1bd3e780.css.map": "/static/css/main.1bd3e780.css.map",
-    "main.aa513ef9.js.map": "/static/js/main.aa513ef9.js.map"
+    "main.ed5c3ad8.js.map": "/static/js/main.ed5c3ad8.js.map"
   },
   "entrypoints": [
     "static/css/main.1bd3e780.css",
-    "static/js/main.aa513ef9.js"
+    "static/js/main.ed5c3ad8.js"
   ]
 }
